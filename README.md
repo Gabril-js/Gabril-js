@@ -2,14 +2,14 @@
 Welcome to my Github!
 </h1>
 <p align="center">
-  Hi I am Lucas, currently a "Cannon Bucha" at ÇuÇ Softs, I aspire to be a Full Stack Developer.
+  Hi I am Gabriel, I aspire to be a Full Stack Developer.
 </p>
  ##
  <p align="left">
  You may contact me by
  </p>
- <a href="mailto:lucasmarquesleao@outlook.com" alt="Outlook">
-  <img src="https://img.shields.io/badge/mail.lucasmarquesleao@outlook.com-F74141?style=for-the-badge&logoColor=white&logo=gmail&link=mailto:mail.chaclacata@gmail.com"/>
+ <a href="mailto:gabriel.gl243@outlook.com" alt="Outlook">
+  <img src="https://img.shields.io/badge/mail.lgabriel.gl243@outlook.com-F74141?style=for-the-badge&logoColor=white&logo=gmail&link=mailto:mail.gabriel.gl2302@gmail.com"/>
 </a>
 <a href="https://instagram.com/lucasmarques_leo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
 </a>
